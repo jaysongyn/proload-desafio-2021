@@ -19,7 +19,8 @@ Então, o sistema deve preparar e enviar mensagens via WhatsApp para os telefone
 https://zapito.com.br/api/docs
 
 - É necessário criar uma conta em https://zapito.com.br para acessar o token da API;
-- Não é necessário contratar um plano, as mensagens podem ser enviadas com a flag `test_mode`.
+- Não é necessário contratar um plano, as mensagens podem ser enviadas com a flag `test_mode`;
+- A mensagem deve conter ao menos o nome do **destinatário** e o título da notícia.
 
 ## Requisitos
 
