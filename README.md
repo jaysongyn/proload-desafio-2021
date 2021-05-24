@@ -33,6 +33,7 @@ https://zapito.com.br/api/docs
 - Criar um [Dockerfile](https://docs.docker.com/engine/reference/builder/) com o PHP e as dependências para facilitar o *deploy*;
   - [Docker Compose](https://docs.docker.com/compose/) pode ser utilizado para executar outros serviços, como o servidor HTTP.
 
+Essa parte não é obrigatória 
 - Subir o código e rodar o sistema em uma [máquina grátis](https://aws.amazon.com/pt/free) da AWS;
 
 - Enviar por e-mail a URL do repositório público contendo o código e o IP do servidor para contato@zapito.com.br com o assunto `TESTE - ZAPITO`.
