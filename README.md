@@ -34,7 +34,7 @@ https://zapito.com.br/api/docs
   - [Docker Compose](https://docs.docker.com/compose/) pode ser utilizado para executar outros serviços, como o servidor HTTP.
 
 
-Essa parte não é obrigatória mas é um diferencial
+## Essa parte não é obrigatória mas é um diferencial
 - Subir o código e rodar o sistema em uma [máquina grátis](https://aws.amazon.com/pt/free) da AWS;
 
 - Enviar por e-mail a URL do repositório público contendo o código e o IP do servidor para contato@zapito.com.br com o assunto `TESTE - ZAPITO`.
